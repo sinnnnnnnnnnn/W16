@@ -1,0 +1,6 @@
+{
+  "name": "SeaStatus",
+  "description": "海洋觀測 APP，提供海況資訊、警報通知、歷史趨勢圖與地圖觀測站。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
